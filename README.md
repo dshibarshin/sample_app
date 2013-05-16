@@ -1,3 +1,3 @@
-== Finally pushed   
+# Finally pushed   
 
-# Sample App
+Sample App
